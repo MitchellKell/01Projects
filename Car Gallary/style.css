@@ -1,0 +1,36 @@
+body {
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    border-style: outset;
+    border-color: white;
+    border-width: 5px;
+    padding: 5px;
+}
+
+
+p {
+    color: white;
+}
+
+hr {
+    border-width: 2px;
+    border-style: outset;
+}
+
+img {
+    align-items: left;
+}
+
+b {
+    color: black;
+}
+
+a {
+    color: black;
+}
